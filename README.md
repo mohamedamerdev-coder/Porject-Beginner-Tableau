@@ -1,4 +1,4 @@
-# Tableau Real Estate Project
+# Tableau Project
 
 ## Overview
 This project contains interactive Tableau dashboards for analyzing real estate data. The dashboards provide insights into property prices, revenue trends, and area-wise comparisons.
